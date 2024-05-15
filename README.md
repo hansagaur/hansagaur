@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hansa Gaur</h1>
 <h3 align="center">Taming the Data Beast | One line of code at a time.</h3>
 
-- 🔭 I’m currently working on **my basics**
+- 🔭 I’m currently working on **My basics**
 
 - 🌱 I’m currently learning **Tensorflow and AWS**
 
